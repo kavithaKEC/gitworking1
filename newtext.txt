@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 Hi hellooooo
 =======
 this is kavitha
->>>>>>> git2
+
